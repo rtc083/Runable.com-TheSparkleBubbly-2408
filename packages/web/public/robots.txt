@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Sitemap: https://sparkle-bubbly.co.za/sitemap.xml
