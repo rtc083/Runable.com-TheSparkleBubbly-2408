@@ -1,0 +1,4 @@
+[build]
+  base = "."
+  command = "bun run --filter @template/web build"
+  publish = "packages/web/dist"
